@@ -1,0 +1,18 @@
+﻿Player 1,Player 2,age_difference,elo_difference,avg_difference,rank_difference
+Novak Djokovic,Carlos Alcaraz,15.9,-51,0.06498,-1
+Novak Djokovic,Andrey Rublev,10.4,157,0.21,-5
+Novak Djokovic,Taylor Fritz,10.4,206,0.2193,-8
+Milos Raonic,Borna Coric,4.1,-296,-0.12963,6
+Holger Rune,Jannik Sinner,-1.7,25,-0.00652,-1
+Holger Rune,Frances Tiafoe,-5.2,105,0.02088,-5
+Holger Rune,Taylor Fritz,-5.5,111,0.0405,-2
+Jannik Sinner,Taylor Fritz,-3.8,86,0.04702,-1
+Jannik Sinner,Daniil Medvedev,-5.5,-60,-0.05319,5
+Holger Rune,Casper Ruud,-4.4,115,0.06799,3
+Nick Kyrgios,Borna Coric,1,46,0.15608,4
+Alex De Minaur,Casper Ruud,-0.2,-21,0.0052,14
+Novak Djokovic,Stefanos Tsitsipas,11.2,163,0.20498,-4
+Novak Djokovic,Casper Ruud,11.5,210,0.24679,-3
+Carlos Alcaraz,Casper Ruud,-4.4,261,0.18181,-2
+Nick Kyrgios,Alex De Minaur,3.2,-31,0.12899,2
+Stefanos Tsitsipas,Christopher Eubanks,-2.3,137,0.17609,-70
